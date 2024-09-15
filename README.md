@@ -1,5 +1,5 @@
 
-# ![Banner](https://raw.githubusercontent.com/Turkish-Developer/turkishdevelopers.com/first-page/public/Cover.png?token=GHSAT0AAAAAACVECFITZDK6Y6J5L443H5VGZXG7W6Q)
+# ![Banner](https://raw.githubusercontent.com/Turkish-Developer/developers.tr-landing/master/public/Cover.png)
 
 # Turkish Developer Community - Landing Page
 
